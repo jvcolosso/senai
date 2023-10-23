@@ -1,0 +1,11 @@
+1)Velocidade do computador (CPU) em MHZ
+3.40 ghz = 3.400mhz
+
+2)Memoria RAM gb para bytes
+  16Gb = 1,6e+10  (16.3804)
+
+3)Descubra qual o endian 
+Little Endian
+
+4)Escrever um programa em C 
+Salvo arquivo endian.c

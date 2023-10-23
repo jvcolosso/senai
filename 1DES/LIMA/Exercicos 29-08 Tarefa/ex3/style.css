@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.red{
+    height: 33.33vh;
+    background-color: red;
+}
+
+.green{
+    height: 33.33vh;
+    background-color: green;
+}
+
+.blue{
+    height: 33.33vh;
+    background-color: blue;
+=======
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.red{
+    height: 33.33vh;
+    background-color: red;
+}
+
+.green{
+    height: 33.33vh;
+    background-color: green;
+}
+
+.blue{
+    height: 33.33vh;
+    background-color: blue;
+>>>>>>> 3941d28dd842645126443e075ce3155d18146434
+}

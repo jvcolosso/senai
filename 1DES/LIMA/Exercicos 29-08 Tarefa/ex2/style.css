@@ -1,0 +1,50 @@
+<<<<<<< HEAD
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+    border: 1px
+}
+.linha{
+    width: 50vw;
+    height: 20vh;
+}
+table{
+    height: 20vh;
+    width: 40vw;
+    border-collapse: collapse;
+}
+th{
+    text-align: left;
+}
+.borda{
+    border-top:2px solid black;
+=======
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+    border: 1px
+}
+.linha{
+    width: 50vw;
+    height: 20vh;
+}
+table{
+    height: 20vh;
+    width: 40vw;
+    border-collapse: collapse;
+}
+th{
+    text-align: left;
+}
+.borda{
+    border-top:2px solid black;
+>>>>>>> 3941d28dd842645126443e075ce3155d18146434
+}

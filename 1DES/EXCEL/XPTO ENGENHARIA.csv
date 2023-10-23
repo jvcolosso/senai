@@ -1,0 +1,27 @@
+ XPTO ENGENHARIA;;;;;
+Orçamento;;;;;
+;;;;;
+PRODUTO;DESCRIÇÃO;VALOR;QTD;SITE;VALOR FINAL
+;HARDWARE;;;;
+NOTEBOOK DELL:;11ª geração Intel® Core™ i5-1135G7 (4-core, cache de 8MB, até 4.2GHz); R$ 3.398,00 ;2;dell.com; R$ 6.796,00 
+PROCESSADOR:;Intel Core i3-10105F, 3.7GHz (4.4GHz Max Turbo), Cache 6MB, Quad Core, 8 Thread, LGA 1200; R$ 428,99 ;3; pichau.com; R$ 1.286,97 
+PLACA MÃE:;Alphard B560M-T, DDR4, SOCKET LGA 1200 ; R$ 499,90 ;3;kabum.com; R$ 1.499,70 
+PLACA DE VIDEO:;T400 PNY NVIDIA, 4GB, GDDR6, PCIe 3.0 ; R$ 919,99 ;3;kabum.com; R$ 2.759,97 
+MEMÓRIA RAM:;8GB (1X8), DDR4, 3200MHZ, C16; R$ 139,99 ;3;pichau.com; R$ 419,97 
+HD:;"HD WD Blue 2TB 3.5"" Sata III 6GB/s"; R$ 228,99 ;3;kabum.com; R$ 686,97 
+SSD:;SD TGT Egon T2, 120GB, Sata III 6GB/s, Leitura 530 MB/s, Gravacao 490 MB/s; R$ 64,90 ;3;pichau.com; R$ 194,70 
+FONTE:;MANCER THUNDER 500W, 80 PLUS BRONZE, MCR-THR500-BL01-OEM; R$ 249,99 ;3;pichau.com; R$ 749,97 
+GABINETE:;Pichau HX300M Glass, Mid-tower, Lateral de Vidro, Preto, PG-HX3-BKM01; R$ 159,90 ;3;pichau.com; R$ 479,70 
+KIT MOUSE E TECLADO:;OFFICE TGT GR100 V2, ABNT2, 1200DPI, PRETO; R$ 84,92 ;3;kabum.com; R$ 254,76 
+MONITOR:;"Monitor 19.5"" LED Widescreen 75Hz HDMI HQ Pro LED VESA"; R$ 293,90 ;3;magazineluiza.com; R$ 881,70 
+DATASHOW:;Projetor Epson Powerlite E20 3LCD, XGA, 3.400 Lumens, Conexão HDMI, Bivolt ; R$ 3.599,00 ;1;kabum.com; R$ 3.599,00 
+IMPRESSORA:;HP Laserjet PRO M428FDW, Laser, Mono, Wi-Fi, 110V, Branco; R$ 2.939,99 ;1;kabum.com ; R$ 2.939,99 
+;SOFTWARE;;;;
+AUTOCAD:;Licensa Anual; R$ 7.423,00 ;4;autodesk.com; R$ 29.692,00 
+INVENTOR:;Licensa Anual; R$ 8.825,00 ;4;autodesk.com; R$ 35.300,00 
+WINDOWS:;Windows 11 Pro, 64 bits, Coem - Fqc - 10520; R$ 840,65 ;5;kabum.com; R$ 4.203,25 
+SERVIDOR:;NAS Assustor A6530 40TB Intel Quad-Core, 1,5GHz 4GB DDR4 ; R$ 17.000,00 ;1;fourserv.com; R$ 17.000,00 
+;CONTRATO DE MANUTENÇÃO;;;;
+MANUTENÇÃO:;Contrato Anual ; R$ 17.000,00 ;;; R$ 17.000,00 
+;;;;;
+TOTAL:;;;;; R$ 125.744,65 

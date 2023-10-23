@@ -1,0 +1,56 @@
+<<<<<<< HEAD
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    height: 100vh;
+}
+
+.red{
+    width: 33.33vw;
+    background-color: red;
+}
+
+.green{
+    width: 33.33vw;
+    background-color: green;
+}
+
+.blue{
+    width: 33.33vw;
+    background-color: blue;
+=======
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    height: 100vh;
+}
+
+.red{
+    width: 33.33vw;
+    background-color: red;
+}
+
+.green{
+    width: 33.33vw;
+    background-color: green;
+}
+
+.blue{
+    width: 33.33vw;
+    background-color: blue;
+>>>>>>> 3941d28dd842645126443e075ce3155d18146434
+}

@@ -1,0 +1,44 @@
+<<<<<<< HEAD
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.a{
+    margin-bottom: 50px;
+}
+
+.b{
+
+    display: flex;
+}
+
+.c{
+    display: flex;
+    list-style: none;
+}
+.margem{
+    margin-right: 30px;
+    margin-bottom: 50px;
+=======
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.a{
+    margin-bottom: 50px;
+}
+
+.b{
+
+    display: flex;
+}
+
+.c{
+    display: flex;
+    list-style: none;
+}
+.margem{
+    margin-right: 30px;
+    margin-bottom: 50px;
+>>>>>>> 3941d28dd842645126443e075ce3155d18146434
+}
